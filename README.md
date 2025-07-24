@@ -55,7 +55,7 @@ Código simples para fins educacionais e estudos
 
 🙋‍♂️ Autor
 Feito com dedicação por Leonardo Feliciano.
-LinkedIn | GitHub
+LinkedIn: https://www.linkedin.com/in/leolfc/ | GitHub: https://github.com/Leolfc
 
 📝 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
