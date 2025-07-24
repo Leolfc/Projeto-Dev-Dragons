@@ -24,7 +24,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/Projeto-Dev-Dragons.git
+git clone https://github.com/Leolfc/Projeto-Dev-Dragons.git
 Navegue até a pasta do projeto:
 
 bash
